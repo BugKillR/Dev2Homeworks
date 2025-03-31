@@ -1,5 +1,5 @@
 # Homework - Development Class
-
+<body>
 <ul>
 <li>This project is being developed for my development class in second year!</li>
 </ul>
@@ -18,3 +18,4 @@
 </div>
   
 <h6>This is me. <i>(A.K.A KIJO)</i></h6>
+</body>
