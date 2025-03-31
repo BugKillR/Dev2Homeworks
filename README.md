@@ -1,4 +1,4 @@
-# Homework - Development Class
+<h1>Homework - Development Class</h1>
 
 <ul>
   <li>This project is being developed for my development class in second year!</li>
@@ -12,4 +12,3 @@
 </div>
 
 <hr>
-  
